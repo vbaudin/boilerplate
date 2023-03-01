@@ -5,4 +5,3 @@ Ramda
 
 ## Quick start
 yarn && yarn dev
-# boilerplate
