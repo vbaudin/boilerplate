@@ -1,4 +1,4 @@
-# Boilerplate
+# ReactFolio
 React, Redux and React-Query
 Vite
 Ramda
